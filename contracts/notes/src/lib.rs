@@ -65,7 +65,7 @@ impl NotesContract {
         return String::from_str(&env, "Notes tidak ditemukan")
     }
 }
-# update
+
 mod test;
 
 
